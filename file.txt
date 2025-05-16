@@ -6,4 +6,8 @@ New feature line
 >>>>>>> new-feature
 Another update on main branch
 Change from cloned repo
+<<<<<<< HEAD
 Main branch conflicting change
+=======
+Change for rebase
+>>>>>>> dd1b162 (Rebase branch commit)
