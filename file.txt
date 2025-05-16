@@ -1,2 +1,6 @@
 Hello Git
+<<<<<<< HEAD
 Main branch change
+=======
+New feature line
+>>>>>>> new-feature
