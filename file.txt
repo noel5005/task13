@@ -6,3 +6,4 @@ New feature line
 >>>>>>> new-feature
 Another update on main branch
 Change from cloned repo
+Main branch conflicting change
